@@ -2,7 +2,6 @@ Category,Keywords
 Geographical location,Antarctic
 Geographical location,Arctic
 Geographical location,Baltic Sea
-Geographical location,Black Sea
 Geographical location,Indian Ocean
 Geographical location,Mediterranean Sea
 Geographical location,North Atlantic
@@ -57,19 +56,14 @@ Study focus,Species interaction
 Targeted group,Benthic animals
 Targeted group,Heterotrophic prokaryotes
 Targeted group,Macroalgae
-Targeted group,Microphytobenthos
 Targeted group,Nekton
 Targeted group,Phytoplankton
 Targeted group,Seagrass
 Targeted group,Zooplankton
 Targeted kingdom,Animalia
-Targeted kingdom,Archaea
 Targeted kingdom,Bacteria
 Targeted kingdom,Chromista
-Targeted kingdom,Fungi
 Targeted kingdom,Plantae
-Targeted kingdom,Protozoa
-Targeted kingdom,Virus
 Targeted phylum,Annelida
 Targeted phylum,Arthropoda
 Targeted phylum,Brachiopoda
@@ -78,16 +72,13 @@ Targeted phylum,Charophyta
 Targeted phylum,Chlorophyta
 Targeted phylum,Chordata
 Targeted phylum,Cnidaria
-Targeted phylum,Ctenophora
 Targeted phylum,Cyanobacteria
 Targeted phylum,Echinodermata
 Targeted phylum,Foraminifera
 Targeted phylum,Haptophyta
 Targeted phylum,Mollusca
 Targeted phylum,Myzozoa
-Targeted phylum,Nematoda
 Targeted phylum,Ochrophyta
-Targeted phylum,Phaeophyta
 Targeted phylum,Platyhelminthes
 Targeted phylum,Porifera
 Targeted phylum,Proteobacteria
@@ -190,7 +181,6 @@ Targeted species,Apoglossum ruscifolium
 Targeted species,Apohyale prevostii
 Targeted species,Aporocidaris eltaniana
 Targeted species,Apostichopus japonicus
-Targeted species,Arachnoides placenta
 Targeted species,Arbacia lixula
 Targeted species,Arbacia punctulata
 Targeted species,Arca inflata Reeve
@@ -243,7 +233,6 @@ Targeted species,Bossiella orbigniana
 Targeted species,Bossiella plumosa
 Targeted species,Botryocladia chiajeana
 Targeted species,Botryocladia madagascariensis
-Targeted species,Brachidontes pharaonis
 Targeted species,Brissopsis lyrifera
 Targeted species,Bryozoa unidentified
 Targeted species,Buccella tenerrima
@@ -274,7 +263,6 @@ Targeted species,Cancris auricula
 Targeted species,Candida sake
 Targeted species,Caprella laeviuscula
 Targeted species,Caprella mutica
-Targeted species,Caratium lineatum
 Targeted species,Carcharhinus melanopterus
 Targeted species,Carcinus maenas
 Targeted species,Carpomitra costata
@@ -469,7 +457,6 @@ Targeted species,Ensis siliqua
 Targeted species,Epinephelus bruneus
 Targeted species,Epistomella bradyana
 Targeted species,Eponides sp.
-Targeted species,Eriphia verrucosa
 Targeted species,Ervilia castanea
 Targeted species,Eucampia zoodiacus
 Targeted species,Eucidaris tribuloides
@@ -490,8 +477,6 @@ Targeted species,Forsterygion lapillum
 Targeted species,Fragilariopsis curta
 Targeted species,Fragilariopsis cylindrus
 Targeted species,Fragilariopsis kerguelensis
-Targeted species,Fucus serratus
-Targeted species,Fucus vesicosus
 Targeted species,Fucus vesiculosus
 Targeted species,Fundulus heteroclitus
 Targeted species,Furcellaria lumbricalis
@@ -564,7 +549,6 @@ Targeted species,Heminuera frondosa
 Targeted species,Hemiscyllium ocellatum
 Targeted species,Henricia oculata
 Targeted species,Heterocapsa sp.
-Targeted species,Heterocapsa triquetra
 Targeted species,Heterosigma akashiwo
 Targeted species,Heterostegina antillarum
 Targeted species,Heterostegina depressa
@@ -839,7 +823,6 @@ Targeted species,Patella caerulea
 Targeted species,Patella rustica
 Targeted species,Patella vulgata
 Targeted species,Patinopecten yessoensis
-Targeted species,Patiriella regularis
 Targeted species,Pavona cactus
 Targeted species,Pecten maximus
 Targeted species,Penaeus plebejus
@@ -930,7 +913,6 @@ Targeted species,Potamogeton perfoliatus
 Targeted species,Praunus flexuosus
 Targeted species,Proboscia alata
 Targeted species,Proboscia truncata
-Targeted species,Prochlorococcus
 Targeted species,Prochlorococcus sp.
 Targeted species,Prorocentrum micans
 Targeted species,Prorocentrum minimum
