@@ -27,13 +27,13 @@ Acropora horrida,1,0
 Acropora hyacinthus,0,3
 Acropora intermedia,2,0
 Acropora millepora,4,6
-Acropora muricata,3,1
+Acropora muricata,1,1
 Acropora palmata,0,1
 Acropora pulchra,2,2
-Acropora sp.,2,0
+Acropora sp.,1,0
 Acropora spicifera,0,1
 Acropora tenuis,1,0
-Acropora verweyi,2,0
+Acropora verweyi,1,0
 Acropora yongei,0,3
 Acrosorium ciliolatum,0,1
 Acteon tornatilis,1,0
@@ -87,10 +87,10 @@ Amphiura filiformis,2,1
 Amphriprion percula,0,1
 Anemonia viridis,2,2
 Anguilla anguilla,0,1
-Animalia,340,426
+Animalia,304,427
 Annelida,5,8
 Anoplopoma fimbria,1,0
-Antarctic,14,31
+Antarctic,15,32
 Anthocidaris crassispina,1,0
 Aphanizomenon sp.,1,0
 Aplysia californica,0,1
@@ -99,12 +99,11 @@ Apoglossum ruscifolium,0,1
 Apohyale prevostii,1,0
 Aporocidaris eltaniana,0,1
 Apostichopus japonicus,0,2
-Arachnoides placenta,4,0
 Arbacia lixula,3,0
 Arbacia punctulata,2,2
 Arca inflata Reeve,1,0
 Archaias angulatus,0,2
-Arctic,22,20
+Arctic,25,20
 Arctica islandica,2,0
 Argopecten irradians,5,3
 Argopecten purpuratus,0,2
@@ -119,34 +118,34 @@ Asterias rubens,5,2
 Asterigerina carinata,0,1
 Asterionella glacialis,1,0
 Asterionellopsis glacialis,1,0
-Astrangia poculata,5,0
+Astrangia poculata,3,0
 Astroides calycularis,0,1
 Atherina presbyter,0,3
 Atractoscion nobilis,1,2
 Attheya sp.,1,0
 Atylus swammerdami,1,0
 Aurelia aurita,0,1
-Aurelia labiata,4,0
+Aurelia labiata,1,0
 Avrainvillea amadelpha,1,0
 Axinella damicornis,0,1
 Babylonia japonica,1,0
 Bacteria,15,4
 Baculogypsina sphaerulata,0,1
 Balanophyllia elegans,1,1
-Balanophyllia europaea,5,1
+Balanophyllia europaea,3,1
 Balanus amphitrite,1,0
 Balanus amphitriterite,0,1
 Balanus improvisus,0,2
 Balliella cladoderma,0,1
-Baltic Sea,22,29
+Baltic Sea,23,29
 Bathycoccus sp.,0,1
 Bathymodiolus brevior,1,0
 Bathyporeia elegans,1,0
-Behaviour,52,137
-Benthic animals,209,272
-Benthos,326,413
+Behaviour,50,136
+Benthic animals,188,273
+Benthos,298,415
 Biddulphia biddulphiana,0,1
-Biomass/Abundance/Elemental composition,134,172
+Biomass/Abundance/Elemental composition,126,171
 Bittium spp.,1,0
 Bolivina acuminata,1,0
 Bolivina acutula,1,0
@@ -155,12 +154,12 @@ Bolivina pseudoplicata,0,1
 Bolivina sp.,1,0
 Bolivina spinosa,1,0
 Bonnemaisonia clavata,0,1
-Boreogadus saida,0,4
+Boreogadus saida,0,3
 Bossiella orbigniana,0,1
 Bossiella plumosa,0,1
 Botryocladia chiajeana,0,1
 Botryocladia madagascariensis,0,1
-Bottles or small containers/Aquaria (<20 L),344,331
+Bottles or small containers/Aquaria (<20 L),314,331
 Brachiopoda,1,0
 Brackish waters,5,32
 Brissopsis lyrifera,1,1
@@ -173,7 +172,7 @@ Bulimina denudata,1,0
 Bulimina marginata,2,0
 Bulimina sp.,1,0
 Bulla striata,1,0
-CO2 vent,32,44
+CO2 vent,26,44
 Caberea boryi,0,1
 Cacospongia mollior,0,1
 Calanus finmarchicus,0,1
@@ -182,9 +181,9 @@ Calanus hyperboreus,1,0
 Calanus pacificus,0,1
 Calanus spp.,1,0
 Calcarina gaudichaudii,1,0
-Calcidiscus leptoporus,6,3
-Calcidiscus quadriperforatus,1,2
-Calcification/Dissolution,193,151
+Calcidiscus leptoporus,6,2
+Calcidiscus quadriperforatus,1,1
+Calcification/Dissolution,184,151
 Calliarthron tuberculosum,0,1
 Calliblepharis jubata,0,1
 Callinectes sapidus,2,4
@@ -196,7 +195,6 @@ Cancris auricula,1,0
 Candida sake,1,0
 Caprella laeviuscula,0,1
 Caprella mutica,0,1
-Caratium lineatum,2,0
 Carcharhinus melanopterus,0,2
 Carcinus maenas,2,1
 Carpomitra costata,0,1
@@ -231,7 +229,7 @@ Chaetoceros curvisetus,0,2
 Chaetoceros debilis,2,2
 Chaetoceros muelleri,1,1
 Chaetoceros spp.,1,1
-Chamelea gallina,1,0
+Chamelea gallina,1,1
 Chara aspera,0,1
 Chara horrida,0,1
 Chara tomentosa,0,1
@@ -245,14 +243,14 @@ Chlorophyta,19,27
 Chondrilla nucula,1,0
 Chondrosia reniformis,1,1
 Chondrus crispus,2,0
-Chordata,46,92
+Chordata,37,92
 Chromis atripectoralis,0,2
-Chromista,106,105
+Chromista,104,105
 Chrysophyrs auratus,0,1
 Chrysymenia ventricosa,0,1
 Chylocladia verticillata,0,1
 Ciona intestinalis,0,1
-Cladocora caespitosa,5,0
+Cladocora caespitosa,3,0
 Cladophora hutchinsiae,0,1
 Cladophora pellucida,0,1
 Cladophora sp.,1,0
@@ -263,16 +261,16 @@ Clathromorphum obtectulum,0,1
 Cliona celata,1,0
 Cliona orientalis,2,0
 Clupea harengus,1,3
-Cnidaria,95,84
-Coast and continental shelf,443,558
+Cnidaria,84,84
+Coast and continental shelf,401,559
 Coccolithus braarudii,4,0
 Coccolithus pelagicus,1,2
 Codium bursa,0,2
 Codium decorticatum,0,1
 Coelastrea aspera,0,1
-Community composition and diversity,44,78
-Concholepas concholepas,1,2
-Containers and aquaria (20-1000 L or < 1 m**2),157,251
+Community composition and diversity,42,78
+Concholepas concholepas,1,1
+Containers and aquaria (20-1000 L or < 1 m**2),152,253
 Conus marmoreus,0,1
 Corallina elongata,4,0
 Corallina officinalis,4,2
@@ -291,7 +289,7 @@ Crambe tailliezi,0,1
 Crangon crangon,1,1
 Craspedocarpus ramentaceus,0,1
 Crassostrea angulata,1,2
-Crassostrea gigas,13,12
+Crassostrea gigas,13,13
 Crassostrea hongkongensis,1,2
 Crassostrea virginica,6,7
 Crella sp.,0,1
@@ -339,7 +337,7 @@ Danio rerio,1,1
 Dascyllus aruanus,0,1
 Dasysiphonia japonica,0,1
 Debaryomyces hansenii,1,0
-Deep-sea,14,7
+Deep-sea,10,7
 Dendraster excentricus,1,0
 Dendrophyllia cornigera,1,1
 Dendropoma petraeum,1,0
@@ -350,7 +348,7 @@ Desmarestia anceps,0,3
 Desmarestia menziesii,0,2
 Desmophyllum dianthus,1,2
 Desmophyllum sp.,2,0
-Development,27,33
+Development,25,33
 Dicentrarchus labrax,2,6
 Dichocoenia stokesii,0,1
 Dichotomaria marginata,1,0
@@ -378,7 +376,7 @@ Dynamene bifida,0,1
 Dynamene torelliae,0,1
 Echinaster sepositus,1,0
 Echinocardium cordatum,2,0
-Echinodermata,52,35
+Echinodermata,42,35
 Echinometra mathaei,3,0
 Echinometra sp.,1,1
 Echinometra viridis,1,1
@@ -398,9 +396,9 @@ Elphidium macellum,0,1
 Elphidium margaritaceum,0,1
 Elphidium sp.,1,1
 Elphidium williamsoni,0,1
-Emiliania huxleyi,42,22
+Emiliania huxleyi,41,22
 Ensis siliqua,1,0
-Entire community,102,137
+Entire community,96,138
 Epinephelus bruneus,1,0
 Epistomella bradyana,1,0
 Eponides sp.,1,0
@@ -419,8 +417,8 @@ Evechinus chloroticus,0,1
 Falkenbergia sp.,1,0
 Favia fragum,2,0
 Favites abdita,0,1
-Field experiment,46,53
-Field observation,51,60
+Field experiment,37,53
+Field observation,47,61
 Flabellia petiolata,0,1
 Flexopecten glaber,0,1
 Foraminifera,19,10
@@ -432,13 +430,13 @@ Fucus vesicosus,1,0
 Fucus vesiculosus,1,1
 Fundulus heteroclitus,0,1
 Furcellaria lumbricalis,0,1
-Gadus morhua,15,6
+Gadus morhua,6,5
 Galaxaura rugosa,1,0
-Galaxea fascicularis,4,2
+Galaxea fascicularis,2,2
 Galeolaria caespitosa,1,0
 Gammarus locusta,1,0
 Gasterosteus aculeatus,0,1
-Gene expression (incl. proteomics),25,37
+Gene expression (incl. proteomics),25,38
 Gephyrocapsa oceanica,4,6
 Gibberulus gibberulus gibbosus,0,2
 Gillichthys mirabilis,1,0
@@ -459,7 +457,7 @@ Gracillaria salicornia,1,1
 Griffithsia genovefae,0,1
 Griffithsia opuntioides,0,1
 Griffithsia sp.,0,1
-Growth/Morphology,273,335
+Growth/Morphology,258,335
 Guehomyces pullulans,1,0
 Guinardia flaccida,0,1
 Guinardia sp.,0,1
@@ -491,7 +489,7 @@ Halymenia elongata,0,1
 Haminoea hydatis,1,0
 Hanzawaia nitidula,1,0
 Haploblepharus edwardsii,0,1
-Haptophyta,53,37
+Haptophyta,53,36
 Haraldia lenormandii,0,1
 Haynesina depressula,0,1
 Hediste diversicolor,0,1
@@ -504,7 +502,6 @@ Heminuera frondosa,0,1
 Hemiscyllium ocellatum,0,1
 Henricia oculata,1,0
 Heterocapsa sp.,0,1
-Heterocapsa triquetra,2,0
 Heterosigma akashiwo,2,1
 Heterostegina antillarum,0,1
 Heterostegina depressa,3,0
@@ -535,7 +532,7 @@ Idiosepius pygmaeus,1,3
 Idotea baltica,1,0
 Idotea emarginata,1,0
 Immunology/Self-protection,6,14
-Indian Ocean,7,17
+Indian Ocean,8,17
 Inorganic toxins,2,12
 Ircinia oros,0,1
 Ircinia variabilis,1,1
@@ -553,8 +550,8 @@ Karenia mikimotoi,0,2
 Katharina tunicata,1,0
 Katodinium glaucum,1,0
 Kondoa malvinella,1,0
-Laboratory experiment,501,608
-Laboratory strains,108,91
+Laboratory experiment,466,610
+Laboratory strains,106,91
 Labroides dimidiatus,0,2
 Lacuna vincta,0,3
 Laevipeneroplis bradyi,0,1
@@ -582,6 +579,7 @@ Limacina retroversa,2,1
 Lingulodinium polyedrum,1,0
 Liocarcinus arcuatus,1,0
 Liothyrella uva,1,0
+Lithophyllum atlanticum,0,1
 Lithophyllum cabiochae,1,1
 Lithophyllum congestum,0,1
 Lithophyllum flavescens,2,0
@@ -591,6 +589,7 @@ Lithophyllum prototypum,1,0
 Lithophyllum sp.,1,0
 Lithophyllum stictaeforme,0,1
 Lithothamnion corallioides,2,1
+Lithothamnion crispatum,0,1
 Lithothamnion glaciale,3,1
 Lithothamnion sp.,0,1
 Lithothamnion valens,0,1
@@ -603,7 +602,7 @@ Lobophora papenfussii,1,0
 Lobophora variegata,1,1
 Lobophytum pauciflorum,0,1
 Lohmaniella oviformis,1,0
-Loligo vulgaris,4,0
+Loligo vulgaris,1,0
 Lomentaria australis,0,1
 Lomentaria chylocladiella,0,1
 Lomentaria ercegovicii,0,1
@@ -619,8 +618,8 @@ Lysidice ninetta,1,0
 Lytechinus pictus,0,1
 Lytechinus variegatus,2,1
 Macoma balthica,1,0
-Macro-nutrients,26,32
-Macroalgae,46,65
+Macro-nutrients,22,32
+Macroalgae,46,66
 Macrocystis pyrifera,2,3
 Madracis mirabilis,1,0
 Madrepora oculata,3,1
@@ -634,8 +633,9 @@ Marginopora rossi,1,0
 Marginopora vertebralis,2,1
 Massilina gualtieriana,0,1
 Mastigocoleus testarum,1,0
-Mediterranean Sea,47,60
+Mediterranean Sea,50,61
 Melita palmata,1,0
+Melyvonnea erubescens,0,1
 Menidia beryllina,1,1
 Menidia menidia,1,6
 Menippe mercenaria,0,1
@@ -644,7 +644,7 @@ Meredithia microphylla,0,1
 Meretrix meretrix,0,2
 Mesalia mesal,1,0
 Mesocentrotus franciscanus,0,1
-Mesocosm or benthocosm,32,61
+Mesocosm or benthocosm,29,61
 Mesodinium rubrum,1,0
 Mesophyllum alternans,0,1
 Mesophyllum expansum,0,1
@@ -661,7 +661,7 @@ Miliolinella subrotunda,0,1
 Mimachlamys asperrima,1,0
 Mimosella gracilis,0,1
 Mimosella verticillata,0,1
-Mollusca,101,168
+Mollusca,95,169
 Montastraea cavernosa,0,4
 Montipora aequituberculata,0,1
 Montipora capitata,2,6
@@ -670,7 +670,7 @@ Montipora flabellata,0,1
 Montipora monasteriata,0,2
 Montipora patula,0,1
 Mopalia muscosa,1,0
-Mortality/Survival,71,78
+Mortality/Survival,67,78
 Musculista senhousia,0,1
 Mya arenaria,4,2
 Mycale grandis,0,1
@@ -681,9 +681,9 @@ Mytilus californianus,1,2
 Mytilus chilensis,1,4
 Mytilus coruscus,0,7
 Mytilus edulis,16,23
-Mytilus galloprovincialis,14,11
+Mytilus galloprovincialis,11,11
 Mytilus trossulus,0,2
-Myzozoa,10,10
+Myzozoa,8,10
 Nacella concinna,2,2
 Naso elegans,0,1
 Nassarius conoidalis,1,1
@@ -700,7 +700,7 @@ Navicula sp.,1,0
 Navicula spp.,0,1
 Navicula vanhoeffenii,0,1
 Necora puber,1,0
-Nekton,60,92
+Nekton,48,92
 Neodenticula seminae,1,0
 Neogloboquadrina incompta,0,1
 Neogloboquadrina pachyderma,1,1
@@ -723,9 +723,9 @@ Nitzschia lecointei,0,1
 Nodularia spumigena,5,0
 Nonionella basispinata,1,0
 Nonionella sp.,1,0
-North Atlantic,164,171
-North Pacific,98,164
-Not applicable,71,68
+North Atlantic,169,176
+North Pacific,99,164
+Not applicable,72,76
 Notocidaris gaussensis,0,1
 Notoclinops segmentatus,0,1
 Notoclinops yaldwyni,0,1
@@ -735,11 +735,11 @@ Nucella ostrina,0,4
 Nucula nucleus,1,0
 Nucula sulcata,1,0
 Nyctiphanes couchii,1,0
-Ochrophyta,34,48
+Ochrophyta,34,49
 Ochrosphaera neapolitana,0,1
 Oculina arbuscula,3,3
 Oculina patagonica,1,0
-Odontaster validus,4,2
+Odontaster validus,0,2
 Odontella weissflogii,0,1
 Oikopleura dioica,0,3
 Oithona davisae,0,1
@@ -772,7 +772,7 @@ Ostreococcus sp.,0,2
 Ostreococcus tauri,2,0
 Other,12,41
 Other metabolic rates,47,86
-Other studied parameter or process,20,91
+Other studied parameter or process,18,92
 Oxygen,2,23
 Pachygrapsus marmoratus,1,0
 Padina australis,0,1
@@ -790,7 +790,7 @@ Paphia aurea,1,0
 Paphia rhomboides,1,0
 Paphia undulate,0,1
 Parablennius laticlavius,0,1
-Paracentrotus lividus,11,5
+Paracentrotus lividus,8,5
 Paradexamine fissicauda,0,1
 Parafavella spp.,1,0
 Paralichthys dentatus,0,1
@@ -798,14 +798,13 @@ Paralichthys olivaceus,1,0
 Parazoanthus axinellae,0,1
 Parorchis sp.,0,1
 Parvicardium exiguum,1,0
-Patella caerulea,4,1
+Patella caerulea,2,1
 Patella rustica,0,1
 Patella vulgata,1,0
 Patinopecten yessoensis,0,1
-Patiriella regularis,4,0
-Pavona cactus,5,0
+Pavona cactus,3,0
 Pecten maximus,4,2
-Pelagos,269,302
+Pelagos,252,302
 Penaeus plebejus,2,2
 Peneroplis pertusus,0,2
 Peneroplis planatus,0,1
@@ -842,11 +841,11 @@ Phyllariopsis brevipes,0,1
 Phyllophora crispa,0,1
 Phymatolithon calcareum,0,1
 Phymatolithon lusitanicum,0,2
-Phytoplankton,101,87
+Phytoplankton,99,87
 Pileolina patelliformis,0,1
 Pinna nobilis,0,1
 Planorbulina acervalis,0,1
-Plantae,46,67
+Plantae,46,68
 Platichthys flesus,1,0
 Platygyra contorta,0,1
 Platyhelminthes,0,1
@@ -854,7 +853,7 @@ Platynereis dumerilii,1,0
 Plectonema terebrans,1,0
 Plectropomus leopardus,1,0
 Plesiastrea versipora,0,1
-Pleurochrysis carterae,0,1
+Pleurochrysis carterae,1,1
 Pleurochrysis placolithoides,0,1
 Plocamium angustum,0,1
 Plocamium cartilagineum,0,1
@@ -864,7 +863,7 @@ Pocillopora damicornis,8,12
 Pocillopora eydouxi,0,1
 Pocillopora meandrina,0,1
 Pocillopora verrucosa,1,2
-Polar,49,57
+Polar,43,56
 Polyophthalmus pictus,1,0
 Polysiphonia elongella,0,1
 Polysiphonia flocculosa,0,1
@@ -902,14 +901,15 @@ Proboscia alata,1,1
 Proboscia truncata,0,1
 Prochlorococcus sp.,0,1
 Prorocentrum micans,1,2
-Prorocentrum minimum,3,0
+Prorocentrum minimum,1,0
 Prorocentrum spp.,1,0
 Proteobacteria,0,1
 Protoceratium reticulatum,0,1
 Psammechinus miliaris,0,1
 Psammocora profundacella,1,0
 Psetta maxima,0,1
-Pseudo-nitzschia fraudulenta,1,0
+Pseudo-nitzschia australis,0,1
+Pseudo-nitzschia fraudulenta,1,1
 Pseudo-nitzschia pseudodelicatissima,1,0
 Pseudo-nitzschia spp.,1,0
 Pseudo-nitzschia subcurvata,2,0
@@ -933,11 +933,11 @@ Quinqueloculina bosciana,0,1
 Quinqueloculina sp.,0,1
 Quinqueloculina stelligera,0,1
 Ramularia pratensis var. pratensis,1,0
-Red Sea,8,5
+Red Sea,9,5
 Reophax dentaliniformis,2,0
 Reophax sp.,1,0
-Reproduction,67,84
-Respiration,90,153
+Reproduction,60,84
+Respiration,90,152
 Reteporella sp.,0,1
 Rhizosolenia setigera,0,1
 Rhizosolenia sp.,0,1
@@ -947,12 +947,12 @@ Rhodomos Sali,0,1
 Rhodophyllis divaricata,0,1
 Rhodophyllis gunnii,1,0
 Rhodophyllis strafforelloi,0,1
-Rhodophyta,29,31
+Rhodophyta,29,32
 Rhodotorula mucilaginosa,1,0
 Rhodymenia sp.,0,2
 Rimostrombidium sp.,1,0
 Rissoa monodonta,1,0
-Rocky-shore community,44,44
+Rocky-shore community,39,44
 Rodriguezella pinnata,0,1
 Rosalina globularis,0,1
 Rosalina sp.,0,1
@@ -996,19 +996,19 @@ Siderastrea radians,1,1
 Siderastrea siderea,0,4
 Sigalion mathildae,1,0
 Simplaria sp.,0,1
-Single species,487,562
+Single species,449,564
 Sinonovacula constricta,0,1
 Sinularia sp.,0,1
 Skeletonema costatum,3,2
 Skeletonema marinoi,1,1
 Skeletonema sp.,0,1
-Soft-bottom community,22,21
+Soft-bottom community,20,21
 Solea senegalensis,0,1
 Solen marginatus,1,0
 Solenastrea hyades,1,1
 Sorites marginalis,0,1
-South Atlantic,5,7
-South Pacific,85,125
+South Atlantic,5,8
+South Pacific,92,126
 Sparus aurata,0,2
 Species interaction,12,32
 Spermatochnus paradoxus,0,1
@@ -1041,8 +1041,8 @@ Strombidium conicum,1,0
 Strombus alatus,2,1
 Stronglyocentrotus purpuratus,1,0
 Strongylocentrotus droebachiensis,5,1
-Strongylocentrotus purpuratus,7,5
-Stylophora pistillata,10,7
+Strongylocentrotus purpuratus,4,5
+Stylophora pistillata,9,7
 Syllis prolifera,1,0
 Symbiodinium sp.,0,1
 Symbiodinium spp.,1,0
@@ -1057,8 +1057,8 @@ Tegula funebralis,0,3
 Teleaulax amphioxeia,0,1
 Tellina fabula,1,0
 Temora longicornis,1,1
-Temperate,347,438
-Temperature,112,181
+Temperate,312,441
+Temperature,100,179
 Tetracladium setigerum,1,0
 Tetraselmis suecica,0,3
 Textularia tenuissima,0,1
@@ -1094,10 +1094,10 @@ Tripneustes ventricosus,2,1
 Tritia reticulata,0,2
 Trochammina inflata,0,1
 Trochammina sp.,1,0
-Tropical,106,126
+Tropical,95,126
 Tropidoneis spp.,1,0
 Turbicellepora avicularis,0,1
-Turbinaria reniformis,3,3
+Turbinaria reniformis,1,3
 Turbo militaris,0,1
 Udotea flabellum,0,1
 Udotea petiolata,0,1
@@ -1124,7 +1124,7 @@ Xenacoelomorpha,1,0
 Yoldia eightsi,1,0
 Zanardinia typus,0,1
 Zeacumantus subcarinatus,0,1
-Zooplankton,73,66
+Zooplankton,70,66
 Zostera capricorni,0,1
 Zostera japonica,0,1
 Zostera marina,0,6
