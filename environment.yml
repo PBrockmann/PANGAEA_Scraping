@@ -9,4 +9,5 @@ dependencies:
   - Cartopy==0.21.1
   - pangaeapy==1.0.13
   - pycountry==22.3.5
-  - countryinfo==0.1.2
+  - pip:
+    - countryinfo==0.1.2
