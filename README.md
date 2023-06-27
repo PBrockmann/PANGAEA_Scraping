@@ -1,4 +1,4 @@
-# PANGEAE_Scraping
+# PANGAEA_Scraping
 
 web scraping from the OA-ICC PANGAEA
 
