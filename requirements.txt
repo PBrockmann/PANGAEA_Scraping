@@ -1,7 +1,7 @@
 pandas==2.0.2
 numpy==1.24.3
 matplotlib==3.7.1
-Cartopy==0.21.1
+cartopy==0.21.1
 pangaeapy==1.0.13
 pycountry==22.3.5
 countryinfo==0.1.2
