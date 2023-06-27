@@ -7,6 +7,7 @@ dependencies:
   - matplotlib==3.7.1
   - geos==3.11.2
   - Cartopy==0.21.1
+  - geopy==2.3.0
   - pangaeapy==1.0.13
   - pycountry==22.3.5
   - pip:
